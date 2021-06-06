@@ -1,0 +1,84 @@
+.intro-cali {
+    
+}
+
+.pic-cali {
+    width: 100%;
+    position: relative;
+}
+
+.statement-title {
+    position: absolute;
+    font-size: 12rem;
+    font-family: 'Dancing Script', cursive;
+    margin-top: -30rem;
+    margin-left: 7rem;
+    color: #fff;
+}
+
+.text-explore {
+    float: left;
+    font-size: 3.15rem;
+    font-weight: 650;
+    font-family: 'Volkhov', serif;
+}
+
+
+.row-one {
+    margin-top: 15rem;
+}
+
+.pic-sf-bridge {
+    position: relative;
+    width: 100%;
+}
+.text-welcome-sf {
+    position: absolute;
+    margin-top: -10rem;
+    margin-left: 12rem;
+    font-size: 5rem;
+    background-color: #fff;
+    width: 10em;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 8.5rem;
+    padding-right: 3rem;
+    color: #D9501E;
+    font-weight: 550;
+}
+
+.row-two {
+    margin-top: 10rem;
+}
+.text-first-stop {
+    font-size: 1.5rem;
+    font-weight: 550;
+    color:#0C70F2;
+}
+.text-north-cali {
+    margin-top: 1.5rem;
+    font-size: 3.5rem;
+    font-family: 'Volkhov', serif;
+   
+}
+
+.row-three {
+    margin-top: 5rem;
+}
+.pic-night-sfgb {
+    width: 100%;
+}
+.background-sfgb {
+    background-color: #fff;
+    background-image: radial-gradient(circle, #D9D9D9 10%, transparent 10%), radial-gradient(circle, #D9D9D9 10%, transparent 10%);
+    background-size: 550px 550px;
+    background-position: 0 0, 50px 50px;
+}
+.card-title {
+    font-size: 2.5rem;
+    font-weight: 525;
+}
+.card-text {
+    margin-top: 4rem;
+    font-size: 1.89rem;
+}
