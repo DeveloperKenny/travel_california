@@ -67,6 +67,7 @@
 }
 .pic-night-sfgb {
     width: 100%;
+    position: relative;
 }
 .background-sfgb {
     background-color: #fff;
@@ -74,11 +75,88 @@
     background-size: 550px 550px;
     background-position: 0 0, 50px 50px;
 }
-.card-title {
+.title-golden-gate {
     font-size: 2.5rem;
     font-weight: 525;
 }
-.card-text {
+.text-golden-gate {
     margin-top: 4rem;
-    font-size: 1.89rem;
+    font-size: 1.2rem;
+}
+.col-sfgb {
+    position: absolute;
+    margin-top: -12rem;
+    margin-left: 20rem;
+    background-color: #fff;
+    color: #0820A6;
+    padding: 3rem;
+}
+
+.row-four {
+    margin-top: 10rem;
+}
+.text-nearby-gems {
+    font-size: 3rem;
+    font-weight: 550;
+    font-family: 'Volkhov', serif;
+}
+.row-five {
+    margin-top: 5rem;
+}
+.pic-bigsur {
+    width: 100%;
+}
+.pic-monterey {
+    width: 100%;
+}
+.pic-boardwalk {
+    width: 100%;
+}
+
+.row-six {
+    margin-top: 5rem;
+}
+
+.text-title-yearly {
+    font-size: 2rem;
+    font-weight: 525;
+    font-family: 'Volkhov', serif;
+}
+.row-list {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.pic-china {
+    width: 100%;
+}
+.pic-pride {
+    width: 100%;
+}
+.pic-fair {
+    width: 100%;
+}
+.pic-lights {
+    width: 100%;
+}
+.row-b {
+    margin-top: 2.5rem;
+}
+.row-c {
+    margin-top: 2.5rem;
+}
+.text-bigsur {
+    background-color: #F2BB13;
+    padding: 1.5rem;
+    color: #fff;
+}
+.text-monterey {
+    background-color: #010A26;
+    padding: 1.5rem;
+    color: #fff;
+}
+.text-boardwalk {
+    background-color: #D97904;
+    padding: 1.5rem;
+    color: #fff;
 }
